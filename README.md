@@ -13,7 +13,7 @@ If you want to see how it looks please follow the steps below.
 **5.** Open your Package Manager Console. Firstly write `enable-migrations` and secondly write `update-database`.<br>
 **6.** Open your Microsoft SQL Server Management Studio. You will see FluentApiECommerceDb.<br>
 #### DataBase Diagram
-<img src="//fluentapi_ecommercedb.png" alt="alt text"/>
+I added a screenshot how database relations looks. You can look at it in the image directory.
 
 #### Additional Information
 I hope will like this project. If you are having trouble using this project, please open a new issue and describe your problem. Liked the project? Just give it a star.
